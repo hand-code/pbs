@@ -1,2 +1,2 @@
 # resttex
-my flask skeleton
+pbs is public bbs service
