@@ -9,6 +9,6 @@
     :license: LICENSE_NAME, see LICENSE_FILE for more details.
 """
 
-DEBUG = True
+DEBUG = False
 
 SQLALCHEMY_DATABASE_URI = "postgresql://chenxiaofeng:@localhost:5432/mydb"
